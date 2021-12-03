@@ -1,3 +1,12 @@
+'''
+
+Resolvi a questão de como fazer o: Git push !
+A seguir deixo o link que me ajudou a fazer isso:
+
+https://docs.github.com/pt/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token
+
+'''
+
 # Cadastro Python
 
 Vamos construir ferramenta de cadastro no Python.
